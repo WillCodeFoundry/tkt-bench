@@ -1,22 +1,19 @@
 {
   "blocked_by": [],
   "body": "",
-  "claim": {
-    "agent": "bench-2-0",
-    "claim_id": "c1c0ed1f6fb5522432adb6686ea2ddb0",
-    "claimed_at": 1792099111,
-    "lease_until": 1792100911
-  },
+  "claim": null,
   "content_version": 1,
   "created": 1792099076,
-  "ended_claim_ids": [],
+  "ended_claim_ids": [
+    "c1c0ed1f6fb5522432adb6686ea2ddb0"
+  ],
   "id": "tkt-e1e1fa07",
   "kind": "task",
   "phase": "triage",
   "priority": null,
   "project": null,
-  "resolution": null,
+  "resolution": "done",
   "tags": [],
   "title": "contention k=2 #5",
-  "updated": 1792099111
+  "updated": 1792099114
 }
