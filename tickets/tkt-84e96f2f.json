@@ -1,7 +1,12 @@
 {
   "blocked_by": [],
   "body": "",
-  "claim": null,
+  "claim": {
+    "agent": "bench-seq",
+    "claim_id": "f4ce84f7d1cd8c1777a1e47833e9c83b",
+    "claimed_at": 1792098992,
+    "lease_until": 1792100792
+  },
   "content_version": 1,
   "created": 1792098988,
   "ended_claim_ids": [],
@@ -13,5 +18,5 @@
   "resolution": null,
   "tags": [],
   "title": "latency 7",
-  "updated": 1792098988
+  "updated": 1792098992
 }
