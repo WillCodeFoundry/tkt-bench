@@ -1,0 +1,17 @@
+{
+  "blocked_by": [],
+  "body": "",
+  "claim": null,
+  "content_version": 1,
+  "created": 1792100253,
+  "ended_claim_ids": [],
+  "id": "tkt-88e7178f",
+  "kind": "task",
+  "phase": "triage",
+  "priority": null,
+  "project": null,
+  "resolution": null,
+  "tags": [],
+  "title": "contention k=10 #21",
+  "updated": 1792100253
+}
