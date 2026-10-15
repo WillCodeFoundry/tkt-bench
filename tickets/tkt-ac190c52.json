@@ -1,7 +1,12 @@
 {
   "blocked_by": [],
   "body": "",
-  "claim": null,
+  "claim": {
+    "agent": "bench-10-0",
+    "claim_id": "25b7ac675072994970804c9e7bfd3220",
+    "claimed_at": 1792101368,
+    "lease_until": 1792103168
+  },
   "content_version": 1,
   "created": 1792101146,
   "ended_claim_ids": [],
@@ -13,5 +18,5 @@
   "resolution": null,
   "tags": [],
   "title": "contention k=10 #19",
-  "updated": 1792101146
+  "updated": 1792101368
 }
