@@ -5,7 +5,7 @@
     "agent": "bench-seq",
     "claim_id": "cd3b948d0cb53a8c7d2ff5ba8d35f3c9",
     "claimed_at": 1792098975,
-    "lease_until": 1792100775
+    "lease_until": 1792100779
   },
   "content_version": 1,
   "created": 1792098971,
@@ -18,5 +18,5 @@
   "resolution": null,
   "tags": [],
   "title": "latency 6",
-  "updated": 1792098975
+  "updated": 1792098979
 }
